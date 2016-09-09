@@ -1,12 +1,17 @@
-#Java Basics Project
+#Automation Project
 
-*Simple Java Basic Concepts*
+*Project for creating automation tests using TestNG and Selenium.*
 
-**Java 7
+**Java 7**
 
-*Java Application
-*Maven
+* Selenium WebDriver
+* Maven
+* TestNG
+* Log4j
+* JDBC
+* SQL
+* CVS/ Test
 
-Java Application which focuses on Java Fundamentals.
+ Automation Project.
 
 [Valentyna Panchuk](https://github.com/valavala24)
