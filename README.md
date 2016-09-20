@@ -1,4 +1,4 @@
-#Automation Project
+#Williams Sonoma
 
 *Project for creating automation tests using TestNG and Selenium.*
 
@@ -9,9 +9,13 @@
 * TestNG
 * Log4j
 * JDBC
-* SQL
+* My SQL
 * CVS/ Test
+* Java
+* JSON
+* Apache POI
 
- Automation Project.
+
+ Williams Sonoma.
 
 [Valentyna Panchuk](https://github.com/valavala24)
